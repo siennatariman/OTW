@@ -14,16 +14,17 @@ import {
 } from 'react-native';
 
 import Navigation from './src/navigation';
+import HomeScreen from './src/screens/HomeScreen';
 
 const App = () => {
  
   return (
     <SafeAreaView style={styles.root}>
-      <Navigation />
+       <Navigation />
     </SafeAreaView>
   );
 };
-
+// <Navigation />
 const styles = StyleSheet.create({
   root: {
     flex: 1,
