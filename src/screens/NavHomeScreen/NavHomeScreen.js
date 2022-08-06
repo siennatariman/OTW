@@ -4,7 +4,7 @@ import React from 'react'
 const NavHomeScreen = () => {
   return (
     <View>
-      <Text>NavHomeScreen</Text>
+      <Text>NHello!</Text>
     </View>
   )
 }
