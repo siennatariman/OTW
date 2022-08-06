@@ -4,7 +4,7 @@ import React from 'react'
 const NavHomeScreen = () => {
   return (
     <View>
-      <Text>NHello!</Text>
+      <Text>Hello, this is the Home screen of the OTW App!</Text>
     </View>
   )
 }

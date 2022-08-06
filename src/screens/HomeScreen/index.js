@@ -28,7 +28,7 @@ const CustomTabBarButton = ({children, onPress}) => (
         width: 70,
         height: 70,
         borderRadius: 35,
-        backgroundColor: '#e32f45'
+        backgroundColor: '#4e7cb9'
       }}
     >
       {children}
@@ -67,10 +67,10 @@ const Tabs = () => {
                     style={{
                       width: 25,
                       height: 25,
-                      tintColor: focused ? '#e32f45' : '#748c94'
+                      tintColor: focused ? '#4e7cb9' : '#748c94'
                     }}
                   />
-                  <Text style={{color: focused ? '#e32f45' : '#748c94', fontSize:12}}>Home</Text>
+                  <Text style={{color: focused ? '#4e7cb9' : '#748c94', fontSize:12}}>Home</Text>
                 </View>
               ),
             }}
@@ -88,10 +88,10 @@ const Tabs = () => {
                     style={{
                       width: 25,
                       height: 25,
-                      tintColor: focused ? '#e32f45' : '#748c94'
+                      tintColor: focused ? '#4e7cb9' : '#748c94'
                     }}
                   />
-                  <Text style={{color: focused ? '#e32f45' : '#748c94', fontSize:12}}>Contacts</Text>
+                  <Text style={{color: focused ? '#4e7cb9' : '#748c94', fontSize:12}}>Contacts</Text>
                 </View>
               ),
             }}
@@ -130,10 +130,10 @@ const Tabs = () => {
                     style={{
                       width: 25,
                       height: 25,
-                      tintColor: focused ? '#e32f45' : '#748c94'
+                      tintColor: focused ? '#4e7cb9' : '#748c94'
                     }}
                   />
-                  <Text style={{color: focused ? '#e32f45' : '#748c94', fontSize:12}}>Maps&Hub</Text>
+                  <Text style={{color: focused ? '#4e7cb9' : '#748c94', fontSize:12}}>Maps&Hub</Text>
                 </View>
               ),
             }}
@@ -151,10 +151,10 @@ const Tabs = () => {
                     style={{
                       width: 25,
                       height: 25,
-                      tintColor: focused ? '#e32f45' : '#748c94'
+                      tintColor: focused ? '#4e7cb9' : '#748c94'
                     }}
                   />
-                  <Text style={{color: focused ? '#e32f45' : '#748c94', fontSize:12}}>Account</Text>
+                  <Text style={{color: focused ? '#4e7cb9' : '#748c94', fontSize:12}}>Account</Text>
                 </View>
               ),
             }}

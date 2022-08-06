@@ -4,7 +4,7 @@ import React from 'react'
 const NavSettingScreen = () => {
   return (
     <View>
-      <Text>NavSettingScreen</Text>
+      <Text>Hello, this is the Settings screen of the OTW App!</Text>
     </View>
   )
 }

@@ -4,7 +4,7 @@ import React from 'react'
 const NavMessageScreen = () => {
   return (
     <View>
-      <Text>MessageScreen</Text>
+      <Text>Hello, this is the Messages screen of the OTW App!</Text>
     </View>
   )
 }

@@ -15,7 +15,7 @@ const NavMapsScreen = () => {
   // /> 
 
   <View>
-      <Text>NHello!</Text>
+      <Text>Hello, this is the Maps screen of the OTW App!</Text>
   </View>
   )
 }

@@ -4,7 +4,7 @@ import React from 'react'
 const NavContactsScreen = () => {
   return (
     <View>
-      <Text>NavContactsScreen</Text>
+      <Text>Hello, this is the Contacts screen of the OTW App!</Text>
     </View>
   )
 }
